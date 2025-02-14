@@ -1,8 +1,8 @@
-/*FaÁa um programa que preencha um vetor com os nomes de sete alunos e carregue outro vetor com a mÈdia
+/*Fa√ßa um programa que preencha um vetor com os nomes de sete alunos e carregue outro vetor com a m√©dia
 final desses alunos. Calcule e mostre:
-?? o nome do aluno com maior mÈdia (desconsiderar empates);
-?? para cada aluno n„o aprovado, isto È, com mÈdia menor que 7, mostrar quanto esse aluno precisa tirar
-na prova de exame final para ser aprovado. Considerar que a mÈdia para aprovaÁ„o no exame È 5.*/
+?? o nome do aluno com maior m√©dia (desconsiderar empates);
+?? para cada aluno n√£o aprovado, isto √©, com m√©dia menor que 7, mostrar quanto esse aluno precisa tirar
+na prova de exame final para ser aprovado. Considerar que a m√©dia para aprova√ß√£o no exame √© 5.*/
 #include <stdio.h>
 
 int main()
@@ -40,13 +40,13 @@ int main()
         }
     }
 
-    // VeeificaÁ„o da maior media
+    // Veeifica√ß√£o da maior media
     maior = media[0];
     for(i = 0; i < 7; i++) {
         if(maior < media[i])
         {
             maior = media[i];
-            indice = i;     // Guarda o valor do indice do laÁo de repetiÁ„o ([i]) quando o if È verdadeiro e encontra a maior media
+            indice = i;     // Guarda o valor do indice do la√ßo de repeti√ß√£o ([i]) quando o if √© verdadeiro e encontra a maior media
         }
     }
 
