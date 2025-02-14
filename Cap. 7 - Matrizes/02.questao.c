@@ -1,6 +1,6 @@
-/*Crie um programa que preencha uma matriz 2 ? 4 com números inteiros, calcule e mostre:
+/*Crie um programa que preencha uma matriz 2 ? 4 com nÃºmeros inteiros, calcule e mostre:
 a quantidade de elementos entre 12 e 20 em cada linha; 
-a média dos elementos pares da matriz.*/
+a mÃ©dia dos elementos pares da matriz.*/
 #include <stdio.h>
 
 int main()
