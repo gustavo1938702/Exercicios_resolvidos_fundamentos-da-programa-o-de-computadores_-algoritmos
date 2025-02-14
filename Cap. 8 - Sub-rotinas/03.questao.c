@@ -1,5 +1,5 @@
-/*Elabore uma sub-rotina que receba dois números como parâmetros e retorne 0, se o primeiro número for
-divisível pelo segundo número. Caso contrário, deverá retornar o próximo divisor.*/
+/*Elabore uma sub-rotina que receba dois nÃºmeros como parÃ¢metros e retorne 0, se o primeiro nÃºmero for
+divisÃ­vel pelo segundo nÃºmero. Caso contrÃ¡rio, deverÃ¡ retornar o prÃ³ximo divisor.*/
 #include <stdio.h>
 
 int retorno (int a, int b)
