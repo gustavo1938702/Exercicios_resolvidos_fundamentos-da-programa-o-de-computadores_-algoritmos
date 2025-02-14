@@ -1,6 +1,6 @@
-/*Crie um programa que preencha duas matrizes 3 ? 8 com números inteiros, calcule e mostre:
-¦¦ a soma das duas matrizes, resultando em uma terceira matriz também de ordem 3 ? 8; 
-¦¦ a diferença das duas matrizes, resultando em uma quarta matriz também de ordem 3 ? 8.*/
+/*Crie um programa que preencha duas matrizes 3 ? 8 com nÃºmeros inteiros, calcule e mostre:
+Â¦Â¦ a soma das duas matrizes, resultando em uma terceira matriz tambÃ©m de ordem 3 ? 8; 
+Â¦Â¦ a diferenÃ§a das duas matrizes, resultando em uma quarta matriz tambÃ©m de ordem 3 ? 8.*/
 #include <stdio.h>
 
 int main()
