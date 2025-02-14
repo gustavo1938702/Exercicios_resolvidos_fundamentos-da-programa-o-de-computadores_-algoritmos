@@ -1,5 +1,5 @@
-/*. Faça um programa que preencha uma matriz 3 ? 3 com números reais e outro valor numérico digitado pelo 
-usuário. O programa deverá calcular e mostrar a matriz resultante da multiplicação do número digitado por 
+/*. FaÃ§a um programa que preencha uma matriz 3 ? 3 com nÃºmeros reais e outro valor numÃ©rico digitado pelo 
+usuÃ¡rio. O programa deverÃ¡ calcular e mostrar a matriz resultante da multiplicaÃ§Ã£o do nÃºmero digitado por 
 cada elemento da matriz.*/
 #include <stdio.h>
 
