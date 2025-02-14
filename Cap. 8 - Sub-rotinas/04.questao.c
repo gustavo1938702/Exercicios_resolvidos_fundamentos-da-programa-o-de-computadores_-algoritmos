@@ -1,4 +1,4 @@
-/*FaÁa uma sub-rotina que receba como par‚metro o raio de uma esfera, calcule e mostre no programa principal
+/*Fa√ßa uma sub-rotina que receba como par√¢metro o raio de uma esfera, calcule e mostre no programa principal
 o seu volume: v = 4/3 * R3.*/
 #include <stdio.h>
 
