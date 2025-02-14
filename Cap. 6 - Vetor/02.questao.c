@@ -1,7 +1,7 @@
-/*Faça um programa que preencha um vetor com sete números inteiros, calcule e mostre: 
-¦¦ os números múltiplos de 2; 
-¦¦ os números múltiplos de 3; 
-¦¦ os números múltiplos de 2 e de 3.*/
+/*FaÃ§a um programa que preencha um vetor com sete nÃºmeros inteiros, calcule e mostre: 
+Â¦Â¦ os nÃºmeros mÃºltiplos de 2; 
+Â¦Â¦ os nÃºmeros mÃºltiplos de 3; 
+Â¦Â¦ os nÃºmeros mÃºltiplos de 2 e de 3.*/
 #include <stdio.h>
 
 int main()
