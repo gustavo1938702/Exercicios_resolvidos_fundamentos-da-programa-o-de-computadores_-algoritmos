@@ -1,5 +1,5 @@
-/*Crie uma sub-rotina que receba como par‚metro a altura (alt) e o sexo de uma pessoa e retorne seu peso ideal.
-Para homens, dever· calcular o peso ideal usando a fÛrmula: peso ideal = 72.7 *alt ? 58; para mulheres: peso
+/*Crie uma sub-rotina que receba como par√¢metro a altura (alt) e o sexo de uma pessoa e retorne seu peso ideal.
+Para homens, dever√° calcular o peso ideal usando a f√≥rmula: peso ideal = 72.7 *alt ? 58; para mulheres: peso
 ideal = 62.1 *alt ? 44.7.*/
 #include <stdio.h>
 
