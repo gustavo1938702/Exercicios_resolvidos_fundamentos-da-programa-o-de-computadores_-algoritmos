@@ -1,11 +1,11 @@
-/*FaÁa um programa que receba o total das vendas de cada vendedor de uma loja e armazene-as em um vetor.
-Receba tambÈm o percentual de comiss„o a que cada vendedor tem direito e armazene-os em outro vetor.
+/*Fa√ßa um programa que receba o total das vendas de cada vendedor de uma loja e armazene-as em um vetor.
+Receba tamb√©m o percentual de comiss√£o a que cada vendedor tem direito e armazene-os em outro vetor.
 Receba os nomes desses vendedores e armazene-os em um terceiro vetor. Existem apenas dez vendedores na
 loja. Calcule e mostre:
-?? um relatÛrio com os nomes dos vendedores e os valores a receber referentes ‡ comiss„o;
+?? um relat√≥rio com os nomes dos vendedores e os valores a receber referentes √† comiss√£o;
 ?? o total das vendas de todos os vendedores;
-?? o maior valor a receber e o nome de quem o receber·;
-?? o menor valor a receber e o nome de quem o receber·.*/
+?? o maior valor a receber e o nome de quem o receber√°;
+?? o menor valor a receber e o nome de quem o receber√°.*/
 #include <stdio.h>
 
 int main()
@@ -71,7 +71,7 @@ int main()
 
 
     printf("\n\n");
-    // RelatÛrio com os nomes dos vendedores e os valores a receber referentes ‡ comiss„o;
+    // Relat√≥rio com os nomes dos vendedores e os valores a receber referentes √† comiss√£o;
     printf("----------RELATORIO DE VENDAS----------\n\n");
     for(i = 0; i < 10; i++)
     {
@@ -82,7 +82,7 @@ int main()
     // o total das vendas de todos os vendedores
     printf("O total das vendas de todos os vendedores: %.2f",total);
 
-    // O maior valor a receber e o nome de quem o receber·; o menor valor a receber e o nome de quem o receber·
+    // O maior valor a receber e o nome de quem o receber√°; o menor valor a receber e o nome de quem o receber√°
     printf("\n\nMaior: %.2f\nVendedor: %s",maior, nomes[po_maior]);
     printf("\n\nMenor: %.2f\nVendedor: %s",menor, nomes[po_menor]);
     return 0;
