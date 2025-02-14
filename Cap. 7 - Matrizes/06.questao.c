@@ -1,5 +1,5 @@
-/*Faça um programa que preencha uma matriz 20 ? 10 com números inteiros, e some cada uma das colunas,
-armazenando o resultado da soma em um vetor. A seguir, o programa deverá multiplicar cada elemento da 
+/*FaÃ§a um programa que preencha uma matriz 20 ? 10 com nÃºmeros inteiros, e some cada uma das colunas,
+armazenando o resultado da soma em um vetor. A seguir, o programa deverÃ¡ multiplicar cada elemento da 
 matriz pela soma da coluna e mostrar a matriz resultante.*/
 #include <stdio.h>
 
