@@ -1,4 +1,4 @@
-/*Faça uma sub-rotina que receba um valor inteiro e verifique se ele é positivo ou negativo.*/
+/*FaÃ§a uma sub-rotina que receba um valor inteiro e verifique se ele Ã© positivo ou negativo.*/
 #include <stdio.h>
 
 int posi_nega (int num)
