@@ -1,4 +1,4 @@
-/*Faça uma sub-rotina que receba um valor inteiro e positivo, calcule e mostre seu fatorial.*/
+/*FaÃ§a uma sub-rotina que receba um valor inteiro e positivo, calcule e mostre seu fatorial.*/
 #include <stdio.h>
 
 int fatorial (int a)
