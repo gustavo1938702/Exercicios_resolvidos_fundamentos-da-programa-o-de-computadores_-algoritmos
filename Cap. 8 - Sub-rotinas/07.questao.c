@@ -1,4 +1,4 @@
-/*Elabore uma sub-rotina que leia um número não determinado de valores positivos e retorne a média aritmética
+/*Elabore uma sub-rotina que leia um nÃºmero nÃ£o determinado de valores positivos e retorne a mÃ©dia aritmÃ©tica
 desses valores. Terminar a entrada de dados com o valor zero.*/
 #include <stdio.h>
 
