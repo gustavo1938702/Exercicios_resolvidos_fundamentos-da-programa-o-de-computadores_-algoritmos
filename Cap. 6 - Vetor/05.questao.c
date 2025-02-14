@@ -1,7 +1,7 @@
-/*Uma escola deseja saber se existem alunos cursando, simultaneamente, as disciplinas Lógica e Linguagem 
-Programação. Coloque os números das matrículas dos alunos que cursam Lógica em um vetor, quinze alunos.
-Coloque os números das matrículas dos alunos que cursam Linguagem de Programação em outro vetor, dez
-alunos. Mostre o número das matrículas que aparecem nos dois vetores.*/
+/*Uma escola deseja saber se existem alunos cursando, simultaneamente, as disciplinas LÃ³gica e Linguagem 
+ProgramaÃ§Ã£o. Coloque os nÃºmeros das matrÃ­culas dos alunos que cursam LÃ³gica em um vetor, quinze alunos.
+Coloque os nÃºmeros das matrÃ­culas dos alunos que cursam Linguagem de ProgramaÃ§Ã£o em outro vetor, dez
+alunos. Mostre o nÃºmero das matrÃ­culas que aparecem nos dois vetores.*/
 #include <stdio.h>
 
 int main()
