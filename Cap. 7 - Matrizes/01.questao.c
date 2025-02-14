@@ -1,4 +1,4 @@
-/*Faça um programa que preencha uma matriz 3 ? 5 com números inteiros, calcule e mostre a quantidade de
+/*FaÃ§a um programa que preencha uma matriz 3 ? 5 com nÃºmeros inteiros, calcule e mostre a quantidade de
 elementos entre 15 e 20.*/
 #include <stdio.h>
 
