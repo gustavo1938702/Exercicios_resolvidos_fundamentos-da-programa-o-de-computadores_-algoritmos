@@ -1,10 +1,10 @@
-/*Faça um programa que preencha três vetores com dez posições cada um: o primeiro vetor, com os nomes de
-dez produtos; o segundo vetor, com os códigos dos dez produtos; e o terceiro vetor, com os preços dos produtos. Mostre um relatório apenas com o nome, o código, o preço e o novo preço dos produtos que sofrerão 
+/*FaÃ§a um programa que preencha trÃªs vetores com dez posiÃ§Ãµes cada um: o primeiro vetor, com os nomes de
+dez produtos; o segundo vetor, com os cÃ³digos dos dez produtos; e o terceiro vetor, com os preÃ§os dos produtos. Mostre um relatÃ³rio apenas com o nome, o cÃ³digo, o preÃ§o e o novo preÃ§o dos produtos que sofrerÃ£o 
 aumento. 
-Sabe-se que os produtos que sofrerão aumento são aqueles que possuem código par ou preço superior 
-R$ 1.000,00. Sabe-se ainda que, para os produtos que satisfazem as duas condições anteriores, código 
-preço, o aumento será de 20%; para aqueles que satisfazem apenas a condição de código, o aumento será 
-de 15%; e para aqueles que satisfazem apenas a condição de preço, o aumento será de 10%.*/
+Sabe-se que os produtos que sofrerÃ£o aumento sÃ£o aqueles que possuem cÃ³digo par ou preÃ§o superior 
+R$ 1.000,00. Sabe-se ainda que, para os produtos que satisfazem as duas condiÃ§Ãµes anteriores, cÃ³digo 
+preÃ§o, o aumento serÃ¡ de 20%; para aqueles que satisfazem apenas a condiÃ§Ã£o de cÃ³digo, o aumento serÃ¡ 
+de 15%; e para aqueles que satisfazem apenas a condiÃ§Ã£o de preÃ§o, o aumento serÃ¡ de 10%.*/
 #include <stdio.h>
 
 int main()
