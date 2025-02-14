@@ -1,10 +1,10 @@
-/*Faça um programa que receba: 
-¦¦ as notas de 15 alunos em cinco provas diferentes e armazene-as em uma matriz 15 ? 5; 
-¦¦ os nomes dos 15 alunos e armazene-os em um vetor de 15 posições. 
-O programa deverá calcular e mostrar:
-¦¦ para cada aluno, o nome, a média aritmética das cinco provas e a situação (aprovado, reprovado 
+/*FaÃ§a um programa que receba: 
+Â¦Â¦ as notas de 15 alunos em cinco provas diferentes e armazene-as em uma matriz 15 ? 5; 
+Â¦Â¦ os nomes dos 15 alunos e armazene-os em um vetor de 15 posiÃ§Ãµes. 
+O programa deverÃ¡ calcular e mostrar:
+Â¦Â¦ para cada aluno, o nome, a mÃ©dia aritmÃ©tica das cinco provas e a situaÃ§Ã£o (aprovado, reprovado 
 ou exame); 
-¦¦ a média da classe.*/
+Â¦Â¦ a mÃ©dia da classe.*/
 #include <stdio.h>
 
 int main()
@@ -25,7 +25,7 @@ int main()
 		{
 			printf("[%d] NOTA: ",j + 1);
 			scanf("%f",&notas[i][j]);
-			soma += notas[i][j];	// A cada iteração, a variavel soma (valor inicial = 0), vai se somando a nota digitada. Ex: soam = 0. soma += 7; soma = 7. soma += 8; soma = 8 + 7 > 15.
+			soma += notas[i][j];	// A cada iteraÃ§Ã£o, a variavel soma (valor inicial = 0), vai se somando a nota digitada. Ex: soam = 0. soma += 7; soma = 7. soma += 8; soma = 8 + 7 > 15.
 		}
 		media[i] = soma / 5;	// a variavel media[i] vai receber a variavel soma dividido por 5, que sera a media do aluno de mesmo indice.
 		media_classe += media[i];
