@@ -1,4 +1,4 @@
-/*Crie uma sub-rotina que receba como par‚metro um valor inteiro e positivo e retorne a soma dos divisores
+/*Crie uma sub-rotina que receba como par√¢metro um valor inteiro e positivo e retorne a soma dos divisores
 desse valor.*/
 #include <stdio.h>
 
