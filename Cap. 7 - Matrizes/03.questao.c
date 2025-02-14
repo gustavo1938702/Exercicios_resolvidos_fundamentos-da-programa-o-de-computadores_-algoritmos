@@ -1,6 +1,6 @@
 /*Elabore um programa que preencha uma matriz 6 ? 3, calcule e mostre:
-¦¦ o maior elemento da matriz e sua respectiva posição, ou seja, linha e coluna; 
-¦¦ o menor elemento da matriz e sua respectiva posição, ou seja, linha e coluna.*/
+Â¦Â¦ o maior elemento da matriz e sua respectiva posiÃ§Ã£o, ou seja, linha e coluna; 
+Â¦Â¦ o menor elemento da matriz e sua respectiva posiÃ§Ã£o, ou seja, linha e coluna.*/
 int main()
 {
 	int matriz[6][3];
