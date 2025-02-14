@@ -1,8 +1,8 @@
-/*Faça um programa que preencha um vetor com seis elementos numéricos inteiros. Calcule e mostre: 
-¦¦ todos os números pares; 
-¦¦ a quantidade de números pares; 
-¦¦ todos os números ímpares; 
-¦¦ a quantidade de números ímpares.*/
+/*FaÃ§a um programa que preencha um vetor com seis elementos numÃ©ricos inteiros. Calcule e mostre: 
+Â¦Â¦ todos os nÃºmeros pares; 
+Â¦Â¦ a quantidade de nÃºmeros pares; 
+Â¦Â¦ todos os nÃºmeros Ã­mpares; 
+Â¦Â¦ a quantidade de nÃºmeros Ã­mpares.*/
 #include <stdio.h>
 
 int main()
